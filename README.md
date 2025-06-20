@@ -1,3 +1,4 @@
+#Client-Server Application
 Scenario: This project simulates a basic network communication setup where a client application needs to send an image to a remote server. It demonstrates how image files can be transmitted over a TCP connection using Java’s built-in socket and file I/O libraries. The system represents a foundational client-server interaction where media data is streamed directly without encryption or compression.
 
 Specifications:
